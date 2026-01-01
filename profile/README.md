@@ -1,8 +1,7 @@
-# RelayNet Vision
+# RelayNet
 
-> This is the official vision and positioning of the RelayNet project.
-
-> 本文档是 RelayNet 项目的官方愿景与定位说明。
+**This is the official vision and positioning of the RelayNet project.**
+**本文档是 RelayNet 项目的官方愿景与定位说明。**
 
 
 **A protocol-first infrastructure for responsibility handoff in cross-organization logistics**  
